@@ -1,0 +1,300 @@
+{
+  "schema": 2,
+  "name": "SimaCraft",
+  "version": "0.2.1",
+  "createdAt": "2026-09-09T16:54:04.112Z",
+  "baseUrl": "./files/0.2.1/",
+  "files": [
+    {
+      "path": "config/sodium-mixins.properties",
+      "size": 258,
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "size": 744,
+      "sha256": "14af2a72b9a5fd3aaad2296a71b024621f199127b7f301079e4d2453e05214bc"
+    },
+    {
+      "path": "mods/architectury-fabric-21.0.7.jar",
+      "size": 587038,
+      "sha256": "0f57afbd3dcddd0b7304c22d712ccf5437e2c41270ec08bd2d8c4e1df0a6d627"
+    },
+    {
+      "path": "mods/Autumn-Maple-Garland-1.0.3+mc26.2-INVENTORY-FIX.jar",
+      "size": 17056,
+      "sha256": "7937d9e22570437d8bea8907aa588fa1e7ef7ce327f89835fc71e92641a8f73f"
+    },
+    {
+      "path": "mods/Bathroom-0.5.11-CREATIVE-INVENTORY-API-FIX-Fabric-MC26.2.jar",
+      "size": 648964,
+      "sha256": "16dc17aa65208dd154125072bea94693d506d466a611007406dc7790f13b8237"
+    },
+    {
+      "path": "mods/better-riding-1.9.8+26.2-DIRECT-SKIN-LAYER-FIX.jar",
+      "size": 20742,
+      "sha256": "3916471685fab10c366c48f38bd503499258ef266a0d2dbc92b6fc0e37073a32"
+    },
+    {
+      "path": "mods/campfire-comfort-1.0.3+mc26.2.jar",
+      "size": 14183,
+      "sha256": "a355466920fc1312f772e8cf206d7e197d8f7dd4542eff9f7838b1c6f522294e"
+    },
+    {
+      "path": "mods/ChickenFeathers-1.0.0+26.2.jar",
+      "size": 9538,
+      "sha256": "338e901bff067419a2d20f6d39f8ebac0b29440f60bfc3edc46cfa0a5a649c68"
+    },
+    {
+      "path": "mods/CozyApiary-1.0.6+mc26.2-ROOF-RIDGE-FIX.jar",
+      "size": 184284,
+      "sha256": "5571240f0c76d9b60013caee2f5ee3dee7a3c7a25db44e91ae0591a18bcd1f93"
+    },
+    {
+      "path": "mods/CozyConcreteKitchen-1.5.9+mc26.2-FRIDGE-CLICK-CRASH-FIX3.jar",
+      "size": 653588,
+      "sha256": "37f7f96a9b17eaac66b24c5fcb3707e79840db45b0db90aa09ce4ae58bd7a61a"
+    },
+    {
+      "path": "mods/CozyKitchenCabinets-1.7.8+mc26.2-SOFAS-CONNECTION-ONLY-FIX.jar",
+      "size": 1683617,
+      "sha256": "716f2bbd319075e4d5888f15355c470a30d70aede7101990ab620d2119587561"
+    },
+    {
+      "path": "mods/CozyKoreanStoves-1.6.7+mc26.2-POT-TEXTURE-ATLAS-FIX.jar",
+      "size": 2730257,
+      "sha256": "65678babd2f161f53045fcc12e8b5a19673cecc8321aab2183d3c4d8254ff5a3"
+    },
+    {
+      "path": "mods/CozyLights-1.3.1+mc26.2-HITBOX-FIX.jar",
+      "size": 53632,
+      "sha256": "a65db22ca174bc00d6a4eae56822a2cfa1401a59ad193b17a736e15450edb4b6"
+    },
+    {
+      "path": "mods/CozyMusicDecor-1.5.1+mc26.2-MISSING-CLASS-FIX.jar",
+      "size": 4009731,
+      "sha256": "ae603d39e37a18e181b8837fe5e5e07bec57e8e1233585636d5564bf86d94c77"
+    },
+    {
+      "path": "mods/CozyPaintings-1.3.4+mc26.2-QUALITY-FLORAL-VASES.jar",
+      "size": 3167679,
+      "sha256": "803556e3405916315e8bf22e1c7991a1f6f099b4c1d21ad8725430853ff1caaf"
+    },
+    {
+      "path": "mods/CozyStorage-1.0.8-26.2-PACKED-FULL-CRATES-BASKETS.jar",
+      "size": 235040,
+      "sha256": "f7dd7ccd234ed57bfa2317875d1989c56c05c31ccae06719a4406c3a24862434"
+    },
+    {
+      "path": "mods/CozyWallpapers-1.4.3+mc26.2-STARTUP-HALF-BREAK-FIX.jar",
+      "size": 9307689,
+      "sha256": "c83db09c7ed23bb91f33558e0c0acb052f9c099cc0d2a99959ff4c665c7bc401"
+    },
+    {
+      "path": "mods/day-counter-1.2.0+mc26.2.jar",
+      "size": 6071,
+      "sha256": "cd9bc42b647f7b6b73b00cffbb48f3f80783f2cc09c3ec9089139ec127eb9753"
+    },
+    {
+      "path": "mods/fabric-api-0.155.2+26.2.jar",
+      "size": 2530080,
+      "sha256": "d6518c770024cbe8a556248f16fcdbb91c6a62f50227a6c3bae8190511e2c1b8"
+    },
+    {
+      "path": "mods/FloodCleaner-1.0.0-Fabric-MC26.2.jar",
+      "size": 11080,
+      "sha256": "46e2d17a22fa1352aa49c7ea28ad342b764e23c5248ecf4fdc1830836c4d9077"
+    },
+    {
+      "path": "mods/iris-fabric-1.11.2+mc26.2.jar",
+      "size": 2820763,
+      "sha256": "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
+    },
+    {
+      "path": "mods/jei-26.2-fabric-30.29.0.198.jar",
+      "size": 1839279,
+      "sha256": "f312694c84772d3fbaacdfd38b23030b59229edb98b5270422017953a4b703cb"
+    },
+    {
+      "path": "mods/KasperOfflineSkin-1.0.0-mc26.2.jar",
+      "size": 6372,
+      "sha256": "0d7531f533c21f2544975409eb469c02c29d272719c47e560c51e72c97924d36"
+    },
+    {
+      "path": "mods/Kaspers-Chunk-Anchor-1.1.2+mc26.2-RMB-CRASH-FIX.jar",
+      "size": 11632,
+      "sha256": "ed22194e56e2ad40be36a09eba80f862b753aac374699fbc0b526eebf3b27094"
+    },
+    {
+      "path": "mods/Kaspers-Diagonal-Fences-2.0.2+mc26.2-UV-FIX.jar",
+      "size": 39540,
+      "sha256": "cc43148afc06054872cbe7285ec5e4e947eacdd8c15e049847a7dc10f57e78c2"
+    },
+    {
+      "path": "mods/Kaspers-Player-Fence-Jump-1.0.2+mc26.2-NO-MIXIN.jar",
+      "size": 5229,
+      "sha256": "b8718abe100563520ada1dc99f82571ce080ed8ed10bbf37192f13185f3b6003"
+    },
+    {
+      "path": "mods/Kaspers-Seasons-0.5.2+mc26.2-GLOBAL-RENDER-MIXIN-FIX.jar",
+      "size": 188372,
+      "sha256": "e5aa908aa91fa71fa884f7c4f8be115ac5ede888728489b5425e8bd876144484"
+    },
+    {
+      "path": "mods/KaspersBears-1.0.6+mc26.2-BABY-MODEL-UV-FIX.jar",
+      "size": 25389,
+      "sha256": "57940ef7663a2a8980affb8eed8ad534811dba3383872b730c2692e2a0de09b1"
+    },
+    {
+      "path": "mods/KaspersBookshelfPlus-1.1.9+mc26.2-NO-TEXTURES.jar",
+      "size": 8449003,
+      "sha256": "4e1e83f536e6df10fb92caabe960b1af8cf3d5fa9dc3e00824f87bd8892fc6a7"
+    },
+    {
+      "path": "mods/KaspersBuriedFinds-1.0.1+mc26.2-BLOCK-DROP.jar",
+      "size": 4786,
+      "sha256": "96e8250a29a19e6be9c54daadae2b3fd9c41bfa1e6fafd505387bc1d68d442ff"
+    },
+    {
+      "path": "mods/KaspersTemperature-1.5.5+mc26.2-HEAT-SOURCES-MIXIN-FIX.jar",
+      "size": 51053,
+      "sha256": "de3eac410c2ab8436de6b642231d1da79d2ca08a5564273f5ebad0431fb4422e"
+    },
+    {
+      "path": "mods/KaspersThirst-1.1.0+mc26.2-ALL-FOOD-HYDRATION.jar",
+      "size": 18233,
+      "sha256": "e1d68ab4fe0b3920719cfb4ca6b41705838e6ea93d4e473f55fd897f64120674"
+    },
+    {
+      "path": "mods/KaspersVanillaBricksTexture-1.0.0+mc26.2.jar",
+      "size": 669326,
+      "sha256": "117982378d51e1c9798b542b6c98d04d57510e2724238b5f4bcb6a15343583ce"
+    },
+    {
+      "path": "mods/KnittedComfort-0.2.2.jar",
+      "size": 33616,
+      "sha256": "6ecbbdb9bccd7c0be73c77ccac1163a242655c4cca5d29fad7a2f7be8cb3bdc0"
+    },
+    {
+      "path": "mods/leonardo-gear-1.3.13+mc26.2-VANILLA-FLIGHT-ANIMATION-BOOTS-FLIGHT-FIX.jar",
+      "size": 193176,
+      "sha256": "94e407971309455e5d6ffe10b76585f3498731459dbbcadafc31249c4f58b5ea"
+    },
+    {
+      "path": "mods/LuxeHeadphones-1.6.5+26.2-AUTUMN-VOLUME-KEYMAP-FIX.jar",
+      "size": 101611845,
+      "sha256": "dc02d00232a2d12c7eb8c9097ffbec64c1274838594081cdc30393f483439844"
+    },
+    {
+      "path": "mods/LuxeRadio-1.4.5+26.2-AUTUMN-VOLUME-KEYMAP-FIX.jar",
+      "size": 59519016,
+      "sha256": "05e29b1d54d7ca7bbc90d477413aae082abb939d1d2a4cf3ca1a31e8b8bf9c03"
+    },
+    {
+      "path": "mods/Placeable-Pumpkin-Pie-1.0.4-mc26.2-PLACEMENT-3D-ITEM-FIX.jar",
+      "size": 17052,
+      "sha256": "e87991d33bf4813d65abb5afb537103d84ebfdbeb367e81782bf98361dc6f615"
+    },
+    {
+      "path": "mods/potion-bottles-3d-rebuilt-2.2.1+mc26.2-WARMTH-COMPAT.jar",
+      "size": 499741,
+      "sha256": "2a050638a87f55271468d4ffbbf037adefcc4670ede812ec522a2a9ee19b3abc"
+    },
+    {
+      "path": "mods/RanchTroughs-1.5.4+26.2-FEED-VISUAL-FIX.jar",
+      "size": 450994,
+      "sha256": "fe75d47116cf7c4f214382d6a30616c4b303c6950efb184e3bea06400085686f"
+    },
+    {
+      "path": "mods/RanchWorkstations-2.0.3+26.2-VANILLA-STONECUTTER.jar",
+      "size": 68341,
+      "sha256": "ab7c0dc4754054c72aee4bc2d0402a293577b6dde0086608b2ffae6d5a3e0971"
+    },
+    {
+      "path": "mods/RandomDrills-1.3.0-EXPANDED-MINING-Fabric-MC26.2.jar",
+      "size": 126144,
+      "sha256": "92fcc5e7220ed61108bc0fed2fd74c47b807efe5b81d67b483aa8272b4cfbe5b"
+    },
+    {
+      "path": "mods/realistic-tree-feller-1.3.0+mc26.2-CLEAN-REBUILD.jar",
+      "size": 21975,
+      "sha256": "508169d225659efc80b309815f5dd9586f4a618a8893513819377239cc5d048f"
+    },
+    {
+      "path": "mods/realistic-worldgen-mega-spruce-highlands-rocky-coasts-fabric-26.2-1.5.1.jar",
+      "size": 97555,
+      "sha256": "153d39ddaf46c678b28eedb46ab9d8dd9f0d991293a3916ef1a0476deb6acd3e"
+    },
+    {
+      "path": "mods/RottenFleshToLeather-1.0.0+26.2.jar",
+      "size": 1935,
+      "sha256": "918090da1152bf244065c980ebc28b8405b8feb044be4f355b16a5d58deea255"
+    },
+    {
+      "path": "mods/SimaCraft-Performance-1.0.0+mc26.2.jar",
+      "size": 9453,
+      "sha256": "f45b7972aed40e6cc214cdfa300bc7969ee825bee4a2a6b31ee36b724d22d2f2"
+    },
+    {
+      "path": "mods/Simi-Companion-Robot-1.1.1+mc26.2-STATION-REPLY-FIX.jar",
+      "size": 28059,
+      "sha256": "bcdb40a9ff6cc33762b10fceb21cac6199c3039380dc6adb2d224e914a8c928a"
+    },
+    {
+      "path": "mods/Sleepless-Knight-5.4.3-HELMET-ONLY-NO-FOG.jar",
+      "size": 6547459,
+      "sha256": "7c26f45d67955bc522b7f57087394584b41e50d1f5b965858ffbd5e844153e45"
+    },
+    {
+      "path": "mods/sliding-windows-1.3.3+mc26.2-WORKING-COZY-PARTICLES.jar",
+      "size": 323998,
+      "sha256": "fb9685703c4fde297f1e850f68b76b9c584f1cb4a4165835b4b5fbfcc04c66aa"
+    },
+    {
+      "path": "mods/sodium-fabric-0.9.1+mc26.2.jar",
+      "size": 1834384,
+      "sha256": "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+    },
+    {
+      "path": "mods/VeinMiner-1.0.2+mc26.2-fabric-api-0.155.2.jar",
+      "size": 6390,
+      "sha256": "7c71b95f7335f4a9ee207f8668603c5a770a9ede99b1315a16375c733a163a6a"
+    },
+    {
+      "path": "mods/winged-horse-armor-1.8.1+mc26.2-SAFE-LANDING.jar",
+      "size": 69398,
+      "sha256": "34694276ee14e4940edde2da774619b729b4ce98e7ee043b329bc78b8058567e"
+    },
+    {
+      "path": "mods/wooden-bucket-3d-1.2.1+mc26.2-v7-bottle-fill-fix.jar",
+      "size": 133228,
+      "sha256": "58d405f11829b5c093630a232d738788b959848292585ef69b38c4fa7928b5cc"
+    },
+    {
+      "path": "mods/wooden-watering-can-1.1.6-TINY-DROPLETS-mc26.2.jar",
+      "size": 129590,
+      "sha256": "3782e4918713efab4a24280974a3b1bd05fbb34158c90ae151fc56d7fd8f4044"
+    },
+    {
+      "path": "resourcepacks/Better-Leaves-9.5.zip",
+      "size": 1923769,
+      "sha256": "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "size": 546928,
+      "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
+    },
+    {
+      "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
+      "size": 1578052,
+      "sha256": "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2"
+    }
+  ],
+  "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения.",
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "9fc897169d102002",
+    "value": "ZVNZM12DIM4GHlEssATNwIREIBFrdRPy1x3a/xDcYmqljS9i4w0O8kZWpSii1ebR/+kqWBTpGRHCo/x/YJe4CA=="
+  }
+}
