@@ -1,0 +1,11 @@
+{
+  "maxPortalLayer": 3,
+  "portalWindowRenderDistance": 5,
+  "initialScreenShown": true,
+  "netherPortalMode": "vanilla",
+  "endPortalMode": "normal",
+  "enableMirrorCreation": false,
+  "enableDatapackPortalGen": false,
+  "checkModInfoFromInternet": false,
+  "enableUpdateNotification": false
+}

@@ -1,10 +1,15 @@
 {
   "schema": 2,
   "name": "SimaCraft",
-  "version": "0.2.1",
-  "createdAt": "2026-09-09T16:54:04.112Z",
-  "baseUrl": "./files/0.2.1/",
+  "version": "20260926-062320-df64",
+  "createdAt": "2026-09-26T06:23:22.770Z",
+  "baseUrl": "./files/20260926-062320-df64/",
   "files": [
+    {
+      "path": "config/immersive_portals.json",
+      "size": 295,
+      "sha256": "a1415fefc7cec0f49f0288a2a67bc7bc4e3768e45983ba177be68ee7a3f5dffb"
+    },
     {
       "path": "config/sodium-mixins.properties",
       "size": 258,
@@ -137,13 +142,13 @@
     },
     {
       "path": "mods/Kaspers-Seasons-0.5.2+mc26.2-GLOBAL-RENDER-MIXIN-FIX.jar",
-      "size": 188372,
-      "sha256": "e5aa908aa91fa71fa884f7c4f8be115ac5ede888728489b5425e8bd876144484"
+      "size": 205526,
+      "sha256": "09136f1ebbf5c3a6a789fbbbdde1810cd78c55dd27a7de3d595c6b04b04012ea"
     },
     {
-      "path": "mods/KaspersBears-1.0.6+mc26.2-BABY-MODEL-UV-FIX.jar",
-      "size": 25389,
-      "sha256": "57940ef7663a2a8980affb8eed8ad534811dba3383872b730c2692e2a0de09b1"
+      "path": "mods/KaspersBears-1.0.14+mc26.2-RIDING-GROUND-STATE-FIX.jar",
+      "size": 55329,
+      "sha256": "9f4d5b6d56148987d5fa66a91a66eb0312c62c206819b03c6eabc716e7e069c2"
     },
     {
       "path": "mods/KaspersBookshelfPlus-1.1.9+mc26.2-NO-TEXTURES.jar",
@@ -231,9 +236,34 @@
       "sha256": "918090da1152bf244065c980ebc28b8405b8feb044be4f355b16a5d58deea255"
     },
     {
+      "path": "mods/seamlessportals-fabric-1.0.0.jar",
+      "size": 4327787,
+      "sha256": "ef9723bd901cd1656ca7146f56a4cd7e6a0889f2f3edfae928e43ad2f95d10c6"
+    },
+    {
+      "path": "mods/SimaCraft-Chromatic-Void-1.0.0+mc26.2.jar",
+      "size": 33292,
+      "sha256": "f3101401c3b9d80c81ce2d75cce17ae7e4cc2cae24c9d0abde343437a3996309"
+    },
+    {
       "path": "mods/SimaCraft-Performance-1.0.0+mc26.2.jar",
       "size": 9453,
       "sha256": "f45b7972aed40e6cc214cdfa300bc7969ee825bee4a2a6b31ee36b724d22d2f2"
+    },
+    {
+      "path": "mods/SimaCraft-Runic-Portals-1.0.0+mc26.2.jar",
+      "size": 3260517,
+      "sha256": "d17bcf993f02a5a2c5276cd118ff55777c2c96b99c7e8c37ebec610fc9e54c2d"
+    },
+    {
+      "path": "mods/SimaCraft-Swim-View-Compat-1.0.0+mc26.2.jar",
+      "size": 1608,
+      "sha256": "89bcf342a28750636a501c87cf7d4439b089577429bcbba49eaf95211d84dddb"
+    },
+    {
+      "path": "mods/SimaCraft-Thirst-Balance-1.0.0+mc26.2.jar",
+      "size": 4492,
+      "sha256": "964ef5319d43e741b43c5207aae1feedaa50120863ce24a35b3df69eb7b06742"
     },
     {
       "path": "mods/Simi-Companion-Robot-1.1.1+mc26.2-STATION-REPLY-FIX.jar",
@@ -262,8 +292,8 @@
     },
     {
       "path": "mods/winged-horse-armor-1.8.1+mc26.2-SAFE-LANDING.jar",
-      "size": 69398,
-      "sha256": "34694276ee14e4940edde2da774619b729b4ce98e7ee043b329bc78b8058567e"
+      "size": 64240,
+      "sha256": "f38e54123453ca381d33fb925e5d0ae92fe18ab4c7e74374738c06a2299fbe90"
     },
     {
       "path": "mods/wooden-bucket-3d-1.2.1+mc26.2-v7-bottle-fill-fix.jar",
@@ -281,6 +311,11 @@
       "sha256": "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
     },
     {
+      "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+      "size": 1791406,
+      "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
+    },
+    {
       "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
       "size": 546928,
       "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
@@ -289,12 +324,17 @@
       "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
       "size": 1578052,
       "sha256": "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2"
+    },
+    {
+      "path": "shaderpacks/VertaLuxV6.zip",
+      "size": 13138062,
+      "sha256": "c03cf35e1c5641963835fb43cf54ac930a50599f03d82436862ac454d47b9c0d"
     }
   ],
   "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения.",
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "9fc897169d102002",
-    "value": "ZVNZM12DIM4GHlEssATNwIREIBFrdRPy1x3a/xDcYmqljS9i4w0O8kZWpSii1ebR/+kqWBTpGRHCo/x/YJe4CA=="
+    "value": "tjTNOqppugfNWt2+nyMNA0r+gbB/hqyKRvBbp77efciydPtdHSjHfZ1p9CYvDIbIhTwe9ER9MPwfXAp/gGxJBA=="
   }
 }
