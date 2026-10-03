@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "name": "SimaCraft",
-  "version": "20260926-062320-df64",
-  "createdAt": "2026-09-26T06:23:22.770Z",
-  "baseUrl": "./files/20260926-062320-df64/",
+  "version": "20261003-wings-skins",
+  "createdAt": "2026-10-03T15:03:33.115Z",
+  "baseUrl": "./files/20261003-wings-skins/",
   "files": [
     {
       "path": "config/immersive_portals.json",
@@ -99,6 +99,11 @@
       "path": "mods/day-counter-1.2.0+mc26.2.jar",
       "size": 6071,
       "sha256": "cd9bc42b647f7b6b73b00cffbb48f3f80783f2cc09c3ec9089139ec127eb9753"
+    },
+    {
+      "path": "mods/elytra-slot-1.2.jar",
+      "size": 32326,
+      "sha256": "e90fdf481898fb03248ffa57c521f98897fa5c77930a8163f96a219eacc4e1e9"
     },
     {
       "path": "mods/fabric-api-0.155.2+26.2.jar",
@@ -241,6 +246,11 @@
       "sha256": "ef9723bd901cd1656ca7146f56a4cd7e6a0889f2f3edfae928e43ad2f95d10c6"
     },
     {
+      "path": "mods/SimaCraft-Back-Slot-1.0.0+mc26.2.jar",
+      "size": 27583,
+      "sha256": "bafdf2c75991a104035cd9bff96a9b740ddbb4991125c9c135e8defdca5c48bf"
+    },
+    {
       "path": "mods/SimaCraft-Chromatic-Void-1.0.0+mc26.2.jar",
       "size": 33292,
       "sha256": "f3101401c3b9d80c81ce2d75cce17ae7e4cc2cae24c9d0abde343437a3996309"
@@ -256,6 +266,11 @@
       "sha256": "d17bcf993f02a5a2c5276cd118ff55777c2c96b99c7e8c37ebec610fc9e54c2d"
     },
     {
+      "path": "mods/SimaCraft-Shared-Skins-1.0.0+mc26.2.jar",
+      "size": 7872,
+      "sha256": "e719b730bf9ba6f76dcaaf5f6a36ca9170cd6632c6e7c6d75e9fa5e4bfa21ca2"
+    },
+    {
       "path": "mods/SimaCraft-Swim-View-Compat-1.0.0+mc26.2.jar",
       "size": 1608,
       "sha256": "89bcf342a28750636a501c87cf7d4439b089577429bcbba49eaf95211d84dddb"
@@ -264,6 +279,11 @@
       "path": "mods/SimaCraft-Thirst-Balance-1.0.0+mc26.2.jar",
       "size": 4492,
       "sha256": "964ef5319d43e741b43c5207aae1feedaa50120863ce24a35b3df69eb7b06742"
+    },
+    {
+      "path": "mods/SimaCraft-Wing-Sync-1.0.0+mc26.2.jar",
+      "size": 8107,
+      "sha256": "5c33a811654d028bba7fd602ace324740f5d6a26c712a302cf3fcaf428acbb9f"
     },
     {
       "path": "mods/Simi-Companion-Robot-1.1.1+mc26.2-STATION-REPLY-FIX.jar",
@@ -332,9 +352,15 @@
     }
   ],
   "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения.",
+  "launcher": {
+    "version": "0.2.5",
+    "path": "launcher/SimaCraft-Launcher.exe",
+    "size": 84081457,
+    "sha256": "aafa2baa29f51a41ed52765b4841f4adfd2551309dee533368175e1655706c4c"
+  },
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "9fc897169d102002",
-    "value": "tjTNOqppugfNWt2+nyMNA0r+gbB/hqyKRvBbp77efciydPtdHSjHfZ1p9CYvDIbIhTwe9ER9MPwfXAp/gGxJBA=="
+    "value": "HMw78Kx9zdZSjzNjtSNfnubt9cXrGJeczSdbyEaIca0yZ+rnH26d+ktgMKO4bh+NdbBvi++ic8Z+cjtfpOyhAQ=="
   }
 }
