@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "name": "SimaCraft",
-  "version": "20261004-radio-sync",
-  "createdAt": "2026-10-04T03:39:55.514Z",
-  "baseUrl": "./files/20261004-radio-sync/",
+  "version": "20261004-voice-chat",
+  "createdAt": "2026-10-04T05:16:41.100Z",
+  "baseUrl": "./files/20261004-voice-chat/",
   "files": [
     {
       "path": "config/immersive_portals.json",
@@ -316,6 +316,11 @@
       "sha256": "7c71b95f7335f4a9ee207f8668603c5a770a9ede99b1315a16375c733a163a6a"
     },
     {
+      "path": "mods/voicechat-fabric-2.6.22+26.2.jar",
+      "size": 5576838,
+      "sha256": "1b6a8c6c41d6d7edaa10543ac623a70b0c60f22f34567969b6999c345aa277b2"
+    },
+    {
       "path": "mods/winged-horse-armor-1.8.1+mc26.2-SAFE-LANDING.jar",
       "size": 64240,
       "sha256": "f38e54123453ca381d33fb925e5d0ae92fe18ab4c7e74374738c06a2299fbe90"
@@ -356,16 +361,16 @@
       "sha256": "c03cf35e1c5641963835fb43cf54ac930a50599f03d82436862ac454d47b9c0d"
     }
   ],
-  "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения.",
+  "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения. Simple Voice Chat — Max Henkel: https://modrepo.de/minecraft/voicechat/overview . Использование в модпаках разрешено автором с указанием авторства: https://modrepo.de/minecraft/voicechat/faq .",
   "launcher": {
     "version": "0.2.5",
     "path": "launcher/SimaCraft-Launcher.exe",
-    "size": 84081457,
-    "sha256": "aafa2baa29f51a41ed52765b4841f4adfd2551309dee533368175e1655706c4c"
+    "size": 84081459,
+    "sha256": "2b1772849be8b2f33cd4505f9eaf35124e163abb9a772554cd40b1ba1bc04c4e"
   },
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "9fc897169d102002",
-    "value": "VtSRBBIOw2dzVJ2jHZKelzRdR+hcZARkYuKJYQMH8l7g0yLMC/mDlBuhpr5xdKESCmfwswTPxQ4nJODUGWvFAA=="
+    "value": "O4MjTeCKLwP3Myj+n0IVrrrMO1XR0HpkGxDa1AdsfGaptmxQHJ6EkybhJVx98zC1VAEfT+Ym4gpG4q7KthfSCg=="
   }
 }
