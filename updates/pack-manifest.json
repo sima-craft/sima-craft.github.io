@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "name": "SimaCraft",
-  "version": "20261003-wings-skins",
-  "createdAt": "2026-10-03T15:03:33.115Z",
-  "baseUrl": "./files/20261003-wings-skins/",
+  "version": "20261004-radio-sync",
+  "createdAt": "2026-10-04T03:39:55.514Z",
+  "baseUrl": "./files/20261004-radio-sync/",
   "files": [
     {
       "path": "config/immersive_portals.json",
@@ -261,6 +261,11 @@
       "sha256": "f45b7972aed40e6cc214cdfa300bc7969ee825bee4a2a6b31ee36b724d22d2f2"
     },
     {
+      "path": "mods/SimaCraft-Radio-Sync-1.0.0+mc26.2.jar",
+      "size": 31449,
+      "sha256": "0125338695bca08ce0803e41071c08d6a90859d4e390dacc1324cd0fafcaca09"
+    },
+    {
       "path": "mods/SimaCraft-Runic-Portals-1.0.0+mc26.2.jar",
       "size": 3260517,
       "sha256": "d17bcf993f02a5a2c5276cd118ff55777c2c96b99c7e8c37ebec610fc9e54c2d"
@@ -361,6 +366,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "9fc897169d102002",
-    "value": "HMw78Kx9zdZSjzNjtSNfnubt9cXrGJeczSdbyEaIca0yZ+rnH26d+ktgMKO4bh+NdbBvi++ic8Z+cjtfpOyhAQ=="
+    "value": "VtSRBBIOw2dzVJ2jHZKelzRdR+hcZARkYuKJYQMH8l7g0yLMC/mDlBuhpr5xdKESCmfwswTPxQ4nJODUGWvFAA=="
   }
 }
