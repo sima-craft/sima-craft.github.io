@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "name": "SimaCraft",
-  "version": "20261004-voice-chat",
-  "createdAt": "2026-10-04T05:16:41.100Z",
-  "baseUrl": "./files/20261004-voice-chat/",
+  "version": "20261006-map-spawner-jazz",
+  "createdAt": "2026-10-06T11:04:32.366Z",
+  "baseUrl": "./files/20261006-map-spawner-jazz/",
   "files": [
     {
       "path": "config/immersive_portals.json",
@@ -256,9 +256,19 @@
       "sha256": "f3101401c3b9d80c81ce2d75cce17ae7e4cc2cae24c9d0abde343437a3996309"
     },
     {
+      "path": "mods/SimaCraft-Explored-Map-1.0.0+mc26.2.jar",
+      "size": 27501,
+      "sha256": "fbb716014716cf0ed6f0ed3577a0dab1251879aed85066d83178237f4a05c78f"
+    },
+    {
       "path": "mods/SimaCraft-Performance-1.0.0+mc26.2.jar",
       "size": 9453,
       "sha256": "f45b7972aed40e6cc214cdfa300bc7969ee825bee4a2a6b31ee36b724d22d2f2"
+    },
+    {
+      "path": "mods/SimaCraft-Radio-Jazz-1.0.1+mc26.2.jar",
+      "size": 5185110,
+      "sha256": "cff12aa625ad8fbbff48a8eec153c2245d83b735c62bec4eef8a9b9e7b5a6bb8"
     },
     {
       "path": "mods/SimaCraft-Radio-Sync-1.0.0+mc26.2.jar",
@@ -274,6 +284,11 @@
       "path": "mods/SimaCraft-Shared-Skins-1.0.0+mc26.2.jar",
       "size": 7872,
       "sha256": "e719b730bf9ba6f76dcaaf5f6a36ca9170cd6632c6e7c6d75e9fa5e4bfa21ca2"
+    },
+    {
+      "path": "mods/SimaCraft-Spawner-Tiers-1.0.0+mc26.2.jar",
+      "size": 30143,
+      "sha256": "f19da689500217775f685806705e737b7a509146a2ed7f97040f9f7f0c090740"
     },
     {
       "path": "mods/SimaCraft-Swim-View-Compat-1.0.0+mc26.2.jar",
@@ -371,6 +386,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "9fc897169d102002",
-    "value": "O4MjTeCKLwP3Myj+n0IVrrrMO1XR0HpkGxDa1AdsfGaptmxQHJ6EkybhJVx98zC1VAEfT+Ym4gpG4q7KthfSCg=="
+    "value": "5tF/KtJ8JC4VqC+APbA2p1aChMFXHUe360v5J9ObL8RxL89jOkRgUrpLSHM7eHDBFjLX0O416WAjaVaGAHagCg=="
   }
 }
