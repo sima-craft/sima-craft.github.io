@@ -1,14 +1,14 @@
 {
   "schema": 2,
-  "name": "SimaCraft",
-  "version": "20261006-map-spawner-jazz",
-  "createdAt": "2026-10-06T11:04:32.366Z",
-  "baseUrl": "./files/20261006-map-spawner-jazz/",
+  "name": "Sima 0.4",
+  "version": "0.4",
+  "createdAt": "2026-11-03T07:32:02.505Z",
+  "baseUrl": "./files/0.4/",
   "files": [
     {
       "path": "config/immersive_portals.json",
-      "size": 295,
-      "sha256": "a1415fefc7cec0f49f0288a2a67bc7bc4e3768e45983ba177be68ee7a3f5dffb"
+      "size": 403,
+      "sha256": "75d111cf3284c7d5178ac9d8bf8adecd8beaba1a4e8b1160f68e7d01785a4c7b"
     },
     {
       "path": "config/sodium-mixins.properties",
@@ -147,8 +147,8 @@
     },
     {
       "path": "mods/Kaspers-Seasons-0.5.2+mc26.2-GLOBAL-RENDER-MIXIN-FIX.jar",
-      "size": 205526,
-      "sha256": "09136f1ebbf5c3a6a789fbbbdde1810cd78c55dd27a7de3d595c6b04b04012ea"
+      "size": 204499,
+      "sha256": "ee5098ca84711b0fd07b2a88ac25892ec0d6c06ffc0fe4ef751f28c078b8a980"
     },
     {
       "path": "mods/KaspersBears-1.0.14+mc26.2-RIDING-GROUND-STATE-FIX.jar",
@@ -246,9 +246,24 @@
       "sha256": "ef9723bd901cd1656ca7146f56a4cd7e6a0889f2f3edfae928e43ad2f95d10c6"
     },
     {
+      "path": "mods/SimaCraft-Art-Studio-1.1.0+mc26.2.jar",
+      "size": 176888,
+      "sha256": "349fa902c4a6f382f90746b04bfa08ccd1d50d9eb08450d302c22f87072a27af"
+    },
+    {
       "path": "mods/SimaCraft-Back-Slot-1.0.0+mc26.2.jar",
       "size": 27583,
       "sha256": "bafdf2c75991a104035cd9bff96a9b740ddbb4991125c9c135e8defdca5c48bf"
+    },
+    {
+      "path": "mods/SimaCraft-Building-Shapes-1.0.0+mc26.2.jar",
+      "size": 1285017,
+      "sha256": "e5c521388b6c8699830bed5edd736774f94a8fc47e9b89da379a19f3f13a9504"
+    },
+    {
+      "path": "mods/SimaCraft-Campfire-Guard-1.0.0+mc26.2.jar",
+      "size": 11000,
+      "sha256": "a38d7344def02083cdefeca4371cc6e24c7314d43a639b82a7c1604664f9ee38"
     },
     {
       "path": "mods/SimaCraft-Chromatic-Void-1.0.0+mc26.2.jar",
@@ -256,14 +271,49 @@
       "sha256": "f3101401c3b9d80c81ce2d75cce17ae7e4cc2cae24c9d0abde343437a3996309"
     },
     {
+      "path": "mods/SimaCraft-Connected-Beds-1.0.0+mc26.2.jar",
+      "size": 50411,
+      "sha256": "6416755b9a38917009836eefd7a57dade8a34d3e933ed272520a5b25e5921730"
+    },
+    {
       "path": "mods/SimaCraft-Explored-Map-1.0.0+mc26.2.jar",
       "size": 27501,
       "sha256": "fbb716014716cf0ed6f0ed3577a0dab1251879aed85066d83178237f4a05c78f"
     },
     {
+      "path": "mods/SimaCraft-Fresh-World-Morning-1.0.0+mc26.2.jar",
+      "size": 4204,
+      "sha256": "fb846802ee370d1eb85ff3701f046120acf44070300bd9d7a126cbdb82776ce0"
+    },
+    {
+      "path": "mods/SimaCraft-Home-Details-1.0.0+mc26.2.jar",
+      "size": 56558,
+      "sha256": "56d12fbf0f1d24842323100db2bd1b04e06042b81b1c4e1dfa37d92c4a6776b1"
+    },
+    {
+      "path": "mods/SimaCraft-Masonry-1.0.0+mc26.2.jar",
+      "size": 2301271,
+      "sha256": "9296cfa06aadb3ce3d22eb5694440f3aace58398d290de7d0ec358458d8787cc"
+    },
+    {
+      "path": "mods/SimaCraft-Patterned-Windows-1.0.0+mc26.2.jar",
+      "size": 24440957,
+      "sha256": "c17c14e27ee2254469000e38082dbc6289a35332a7910db13381ff0a123b16d3"
+    },
+    {
       "path": "mods/SimaCraft-Performance-1.0.0+mc26.2.jar",
       "size": 9453,
       "sha256": "f45b7972aed40e6cc214cdfa300bc7969ee825bee4a2a6b31ee36b724d22d2f2"
+    },
+    {
+      "path": "mods/SimaCraft-Photography-1.0.0+mc26.2.jar",
+      "size": 152739,
+      "sha256": "21e236804e9c6c16a028bab7183e9dbb597471261d152620fa382e3849d479a8"
+    },
+    {
+      "path": "mods/SimaCraft-Poultry-Life-1.0.0+mc26.2.jar",
+      "size": 235695,
+      "sha256": "3709d8064ac16e9042a8ba5ff53d689083f91869fde9a14d05e729056a23c507"
     },
     {
       "path": "mods/SimaCraft-Radio-Jazz-1.0.1+mc26.2.jar",
@@ -281,9 +331,24 @@
       "sha256": "d17bcf993f02a5a2c5276cd118ff55777c2c96b99c7e8c37ebec610fc9e54c2d"
     },
     {
+      "path": "mods/SimaCraft-Sawmill-1.0.0+mc26.2.jar",
+      "size": 1268450,
+      "sha256": "12a4c73c4b8dd5f6f21468a34b963520fe6799f94fc6c23e99c4e87ee256b5f0"
+    },
+    {
+      "path": "mods/SimaCraft-Scenic-Nature-1.0.0+mc26.2.jar",
+      "size": 2945903,
+      "sha256": "e38e5b571f2571d3b83b93ee4771e1ea86da299cf01dfbe066ad8f821deedece"
+    },
+    {
       "path": "mods/SimaCraft-Shared-Skins-1.0.0+mc26.2.jar",
       "size": 7872,
       "sha256": "e719b730bf9ba6f76dcaaf5f6a36ca9170cd6632c6e7c6d75e9fa5e4bfa21ca2"
+    },
+    {
+      "path": "mods/SimaCraft-Sleep-Choice-1.0.0+mc26.2.jar",
+      "size": 40110,
+      "sha256": "ac3d3dca3f8804e5b2a25d5c310b512e8d45200791113c441483d319a121edb5"
     },
     {
       "path": "mods/SimaCraft-Spawner-Tiers-1.0.0+mc26.2.jar",
@@ -299,6 +364,11 @@
       "path": "mods/SimaCraft-Thirst-Balance-1.0.0+mc26.2.jar",
       "size": 4492,
       "sha256": "964ef5319d43e741b43c5207aae1feedaa50120863ce24a35b3df69eb7b06742"
+    },
+    {
+      "path": "mods/SimaCraft-Vertical-Attachments-1.0.0+mc26.2.jar",
+      "size": 28281,
+      "sha256": "d62a5cb5c90022a6d03bfa370888ebb35ff6dd803db193140e7fcac359939f47"
     },
     {
       "path": "mods/SimaCraft-Wing-Sync-1.0.0+mc26.2.jar",
@@ -356,6 +426,11 @@
       "sha256": "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
     },
     {
+      "path": "shaderpacks/AerixiumSFA-PTGI-Shaders.zip",
+      "size": 15360994,
+      "sha256": "9d3eaa93e140bdc1e73f11c79854ba34b68e06d5b2c872ab6bd756487f29b451"
+    },
+    {
       "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
       "size": 1791406,
       "sha256": "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
@@ -366,9 +441,29 @@
       "sha256": "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
     },
     {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip.txt",
+      "size": 147,
+      "sha256": "9b41cb6fba305164f9513695f27ccd914d33e99560b836ed784fad776f4e0c80"
+    },
+    {
+      "path": "shaderpacks/CTMPOMFIX-Chocapic13-Shaders.zip",
+      "size": 3854238,
+      "sha256": "3edb189d163209a8833ac592c5e5d163e6c3818d325d60b75c624796865c61dd"
+    },
+    {
+      "path": "shaderpacks/Eveliteshader (2).zip",
+      "size": 1725771,
+      "sha256": "48e0b914a8ee89c59397c2fd77b6b9a75e01a635df4d6541fc61ec81fe5ae7dd"
+    },
+    {
       "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
       "size": 1578052,
       "sha256": "cfad48537a3cbd7db219e29f07b24820c80322d5df656a9d087da5f8f9fc1df2"
+    },
+    {
+      "path": "shaderpacks/RealisticLite-Shaders.zip",
+      "size": 120576,
+      "sha256": "dab4a81a03320cf12ac7b2bb19589cbeab447852442678935bf01dfa3f095be5"
     },
     {
       "path": "shaderpacks/VertaLuxV6.zip",
@@ -376,7 +471,7 @@
       "sha256": "c03cf35e1c5641963835fb43cf54ac930a50599f03d82436862ac454d47b9c0d"
     }
   ],
-  "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения. Simple Voice Chat — Max Henkel: https://modrepo.de/minecraft/voicechat/overview . Использование в модпаках разрешено автором с указанием авторства: https://modrepo.de/minecraft/voicechat/faq .",
+  "notice": "SimaCraft — авторская сборка Каспер. Без письменного согласия автора нельзя перезаливать лаунчер, оформление, сборку целиком или выдавать изменённую сборку за официальную. Права и лицензии сторонних модов принадлежат их авторам и сохраняют собственные условия распространения.",
   "launcher": {
     "version": "0.2.5",
     "path": "launcher/SimaCraft-Launcher.exe",
@@ -386,6 +481,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "9fc897169d102002",
-    "value": "5tF/KtJ8JC4VqC+APbA2p1aChMFXHUe360v5J9ObL8RxL89jOkRgUrpLSHM7eHDBFjLX0O416WAjaVaGAHagCg=="
+    "value": "kD9wZX5QXFVUL+YvUI3VYdfc4+YTbuzCUj/BFcaXoCPBiNVYV/NdRg2Dx+OKVJ8Yer7L/Ei+jv87QUKE9t/7Dw=="
   }
 }
